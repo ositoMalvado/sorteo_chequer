@@ -1,5 +1,5 @@
 # Sorteo Chequer v1.0
-#####Programa para ver los sorteos de las Quinielas de Argentina
+##### Programa para ver los sorteos de las Quinielas de Argentina
 
 ## Demostración
 
