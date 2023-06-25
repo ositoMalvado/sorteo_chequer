@@ -2,7 +2,7 @@
 
 ##### Programa para ver los sorteos de las Quinielas de Argentina
 
-## Demostración
+<h1> Demostración </h1>
 <img src="https://count.getloli.com/get/@:osito_sorteo_chequer?theme=gelbooru" alt=":name" />
 ### - <br>Python:
 <img src="https://i.imgur.com/MxD7SRp.png" alt=":img1" />
